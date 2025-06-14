@@ -11,4 +11,17 @@ This repo is for my c++ based mini projects
     5. compile the code: g++ snake.cpp -o snake -lncurses
     6. run: ./snake
 
+2. Neural Network.
+    1. Implemented an MLP using C++.
+    2. Implementation of the Matrix, Neuron, Layer and Neural Network class
+    3. used cmake for compilation
+    4. To run:- 
+        1. clone the repo
+        2. navigate to main.py
+        3. customize your own neural architecture
+        4. set the alpha and the num_epochs
+        5. navigate to build directory
+        6. enter shell command: "make"
+    5. This should print out the architecture, final output and the loss values across all the epochs. 
+
 

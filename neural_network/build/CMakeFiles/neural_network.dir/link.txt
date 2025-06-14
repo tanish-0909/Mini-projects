@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wall -O2 CMakeFiles/neural_network.dir/main.cpp.o CMakeFiles/neural_network.dir/neuron.cpp.o CMakeFiles/neural_network.dir/layer.cpp.o CMakeFiles/neural_network.dir/matrix.cpp.o CMakeFiles/neural_network.dir/neural_net.cpp.o -o neural_network 

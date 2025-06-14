@@ -1,0 +1,3 @@
+/home/tanish/cpp/projects/neural_network/build/CMakeFiles/neural_network.dir
+/home/tanish/cpp/projects/neural_network/build/CMakeFiles/edit_cache.dir
+/home/tanish/cpp/projects/neural_network/build/CMakeFiles/rebuild_cache.dir
