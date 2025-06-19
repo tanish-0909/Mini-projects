@@ -31,6 +31,6 @@ This repo is for my c++ based mini projects
     4. Ensure g++ is 7 or above
     5. run (bash): g++ scan2.cpp file_metadata_finder.cpp -o scan
     6. run (bash): ./scan
-        //scan.cpp is an old version of the file.
+    7. //scan.cpp is an old version of the file.
 
 
