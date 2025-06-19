@@ -24,4 +24,13 @@ This repo is for my c++ based mini projects
         6. enter shell command: "make"
     5. This should print out the architecture, final output and the loss values across all the epochs. 
 
+3. Disk Management.
+    1. Developed a WSL based C++ code which uses filesystems to scan your c, d or e drive and returns to you all the files greater than 500000000 bytes (i.e. approx 0.5 GB) along with a progress bar.
+    2. download scan2.cpp and file_metadata_finder.cpp both the files and place them in the same folder
+    3. Ensure C++ is 17 or above 
+    4. Ensure g++ is 7 or above
+    5. run (bash): g++ scan2.cpp file_metadata_finder.cpp -o scan
+    6. run (bash): ./scan
+        //scan.cpp is an old version of the file.
+
 

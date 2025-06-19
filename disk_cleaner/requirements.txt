@@ -1,0 +1,5 @@
+c++ 17 or above
+gcc 7 or above
+filesystem
+chrono
+iomanip
